@@ -1,6 +1,6 @@
 
 # Res-SE-ConvNet: A Deep Neural Network for Hypoxemia Severity Prediction for Hospital In-Patients Using Photoplethysmograph Signal
-Official repository for the paper "Res-SE-ConvNet: A Deep Neural Network for Hypoxemia Severity Prediction for Hospital In-Patients Using Photoplethysmograph Signal". Codes are coming soon.
+Official repository for the paper "Res-SE-ConvNet: A Deep Neural Network for Hypoxemia Severity Prediction for Hospital In-Patients Using Photoplethysmograph Signal". Please run `pip3 install -r requirements.txt` in a Python environment and then run `train.py`.
 
 ## [Paper][paper]
 [paper]: https://ieeexplore.ieee.org/document/9930756
@@ -19,8 +19,8 @@ Abstract: <i>Determining the severity level of hypoxemia, the scarcity of satura
 ```
 @ARTICLE{9930756,
   author={Mahmud, Talha Ibn and Imran, Sheikh Asif and Shahnaz, Celia},
-  journal={IEEE Journal of Translational Engineering in Health and Medicine}, 
-  title={Res-SE-ConvNet: A Deep Neural Network for Hypoxemia Severity Prediction for Hospital In-Patients Using Photoplethysmograph Signal}, 
+  journal={IEEE Journal of Translational Engineering in Health and Medicine},
+  title={Res-SE-ConvNet: A Deep Neural Network for Hypoxemia Severity Prediction for Hospital In-Patients Using Photoplethysmograph Signal},
   year={2022},
   volume={10},
   number={},
